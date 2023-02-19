@@ -4,8 +4,6 @@ A brief summary: A Caesar cipher is a simple approach to encoding messages by sh
                 Then it returns the encoded message according to the constant user gives and decode
                 that encoded message. 
                 At the end of the program, user can enter 'y' to play again, otherwise, 'n' to quit. 
-Authors: 1. Paul Sining Lu; sininglu@sandiego.edu 
-         2. Ashley; axu@sandiego.edu 
 
 Last Date Modified: 09/24/2021 
 */ 
